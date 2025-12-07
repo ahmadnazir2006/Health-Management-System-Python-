@@ -1,0 +1,9 @@
+--- Rohan's Diet Log ---
+Date: 7 Dec 2025
+
+Breakfast: 3 boiled eggs, 1 glass milk
+Lunch: Grilled chicken breast + rice
+Snack: Apple + almonds
+Dinner: Vegetable soup + brown bread
+Water Intake: 2.5 liters
+2025-12-07 17:00:59.455280apple 10
